@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-I own and lead software development at [Paragon Network](https://twitter.com/ParagonUHC)\
-I also work at [UHCArcade](https://twitter.com/UHCArcade)
+I own [Paragon Games](https://github.com/paragongames), an organization backing a work-in-progress Minecraft PvP/mini-game server.
 
-Creator of [LunarClientSpoofer](https://github.com/LeviDevs/LunarClientSpoofer), the only Forge mod that makes servers think you're using Lunar Client on Forge.
+Creator of [LunarClientSpoofer](https://github.com/LeviDevs/LunarClientSpoofer), the only mod that makes servers think you're using [Lunar Client](https://www.lunarclient.com/) on Forge.
 
-Contact: levi@paragongames.org
+Fluent in JVM (Java, Kotlin), MySQL, PostgreSQL, Redis, and other tools.\
+Familiar with JavaScript, TypeScript, Node, Python and some other languages.\
+My current interests are reverse engineering certain software, like bot/cheat prevention.
+
+Contact/business/general inquiries: levi@paragongames.org
