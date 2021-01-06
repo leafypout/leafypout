@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-I own [Paragon Games](https://github.com/paragongames), an organization backing a work-in-progress Minecraft PvP/mini-game server.
+I'm currently working on [CrimsonAIO](https://github.com/CrimsonAIO), an upcoming sneaker/retail but currently in closed beta.
 
-Creator of [LunarClientSpoofer](https://github.com/LeviDevs/LunarClientSpoofer), the only mod that makes servers think you're using [Lunar Client](https://www.lunarclient.com/) on Forge.
+I used to do Minecraft stuff; check out one of my projects, [LunarClientSpoofer](https://github.com/LeviDevs/LunarClientSpoofer)
 
-Fluent in JVM (Java, Kotlin), MySQL, PostgreSQL, Redis, and other tools.\
-Familiar with JavaScript, TypeScript, Node, Python and some other languages.\
-My current interests are reverse engineering certain software, like bot/cheat prevention.
+Experienced with Java, Kotlin, Go, Python, JavaScript (including TypeScript), and SQL.
 
-Contact/business/general inquiries: levi@paragongames.org
+Contact: levi@crimsonaio.co
