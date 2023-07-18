@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  DevOps engineer reverse engineering web security vendors.
+  Software & DevOps engineer reverse engineering web security vendors.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-I'm a 21 year old self-taught DevOps engineer from New Zealand. I started out by working on Minecraft (Java Edition) servers,
+I'm a 22 year old self-taught Software and DevOps engineer from New Zealand. I started out by working on Minecraft (Java Edition) servers,
 primarily my own server that reached 200 concurrent players and eventually another that reached 500 concurrent players on multiple occasions. My work on  these projects involved creating and maintaining server plugins that were optimized to handle potentially thousands of players, integrated with services  like MySQL, PostgreSQL and Redis. I also developed efficient server-side anti-cheat technology that was capable of accurately detecting in-game cheaters. I  also made <a href="https://github.com/levi-nz/LunarClientSpoofer">LunarClientSpoofer</a>, a client-side mod that makes servers think a player is using <a   href="https://www.lunarclient.com">Lunar Client</a>.
 </p>
 
