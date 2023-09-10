@@ -23,7 +23,6 @@ primarily my own server that reached 200 concurrent players and eventually anoth
 
 <p align="center">
 I entered the sneaker botting scene in 2021 where I focused my efforts in reverse engineering web security vendors, mainly <a href="https://www.akamai.com/products/bot-manager">Akamai Bot Manager</a>, which still works today and is capable of circumventing their solution at large scale. I am also currently working on a solution to circumvent <a href="https://www.perimeterx.com">PerimeterX</a>, which so far has been successful and has posed no challenges. My work involving reverse engineering these vendors has primarily been JavaScript deobfuscation and generating synthetic telemetry data.
-25
 </p>
 
 <p align="center">
